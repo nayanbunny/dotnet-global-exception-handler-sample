@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Global.Exceptions.Handler.Sample.Api", "DotNet.Global.Exceptions.Handler.Sample.Api\DotNet.Global.Exceptions.Handler.Sample.Api.csproj", "{2900E671-DC92-4215-84EF-978B39C1D487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Global.Exceptions.Handler.Sample.Library", "DotNet.Global.Exceptions.Handler.Sample.Library\DotNet.Global.Exceptions.Handler.Sample.Library.csproj", "{7B0EBBDB-0673-4968-9FFC-A439CC74248F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2900E671-DC92-4215-84EF-978B39C1D487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2900E671-DC92-4215-84EF-978B39C1D487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2900E671-DC92-4215-84EF-978B39C1D487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2900E671-DC92-4215-84EF-978B39C1D487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0EBBDB-0673-4968-9FFC-A439CC74248F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0EBBDB-0673-4968-9FFC-A439CC74248F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0EBBDB-0673-4968-9FFC-A439CC74248F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0EBBDB-0673-4968-9FFC-A439CC74248F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {866BFFB8-D8CC-4040-BCA8-80D24189D8AE}
+	EndGlobalSection
+EndGlobal
